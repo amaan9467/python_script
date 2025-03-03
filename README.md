@@ -29,6 +29,7 @@ Takes a number as input from the user and performs three mathematical operations
 
 
 func_mod_2 explaination --
+
 It defines a recursive function to calculate the factorial of a given number. It takes user input and calls the function, which multiplies the number by the factorial of the previous number until it reaches the base case of 1. If the input is 0 or 1, the function returns 1 immediately. The factorial function is a fundamental concept in programming, often used in mathematical computations, permutations, and probability calculations.
 
 
