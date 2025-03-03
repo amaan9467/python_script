@@ -21,4 +21,4 @@ If true, it prints that the number is even; otherwise, it prints that the number
 
 task_2_cs explaination --
 
-
+This program iterates from 1 to 50, adds each number to the total_sum variable, and finally prints the result.
